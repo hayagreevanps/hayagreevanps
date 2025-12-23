@@ -11,39 +11,39 @@ My interests include **health-tech, smart transportation, and human-centric syst
 
 ## 🔧 Tech Stack
 
-**Programming:**  
+**Programming**  
 Python, C, C++, JavaScript  
 
-**AI / ML:**  
+**AI / ML**  
 Machine Learning, Data Analysis  
 TensorFlow, Scikit-learn (Basics)
 
-**Embedded & IoT:**  
+**Embedded & IoT**  
 ESP32, Sensors, Embedded C, IoT System Design  
 
-**Web / App:**  
+**Web / App**  
 HTML, CSS, JavaScript  
 React (Basics), Flutter (Learning), Node.js (Basics)
 
-**Tools:**  
+**Tools**  
 Git & GitHub, VS Code, Tinkercad
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔹 MEDTREX
+### 🔹 MEDTREX  
 Wearable health monitoring & **instant treatment system**  
 - Real-time vital tracking  
 - PCM-based fever treatment mechanism  
 - Designed for industrial & software professionals  
 
-### 🔹 Way-Sync
+### 🔹 Way-Sync  
 AI-powered smart route & eco-navigation platform  
 - Traffic & pollution-aware routing  
 - AI-based road usability analysis  
 
-### 🔹 Drive-Sync
+### 🔹 Drive-Sync  
 Smart vehicle safety & accident prevention system  
 - Vehicle-to-Vehicle (V2V) communication  
 - Driver behavior & hazard detection  
@@ -52,21 +52,22 @@ Smart vehicle safety & accident prevention system
 
 ## 📊 GitHub & Coding Statistics
 
-| GitHub Stats | GitHub Streak |
-|-------------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hayagreevanps&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://streak-stats.demolab.com?user=hayagreevanps&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hayagreevanps&show_icons=true&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=hayagreevanps&theme=tokyonight" />
+</p>
 
----
-
-| Most Used Languages |
-|--------------------|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hayagreevanps&layout=compact&theme=tokyonight) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hayagreevanps&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🧠 LeetCode Statistics
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Haya_greevan?theme=dark&font=Karma)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Haya_greevan?theme=dark&font=Karma" />
+</p>
 
 ---
 
@@ -91,7 +92,9 @@ Smart vehicle safety & accident prevention system
 
 ## 🔥 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hayagreevanps&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hayagreevanps&theme=tokyo-night" />
+</p>
 
 ---
 
@@ -108,4 +111,5 @@ I’m open to:
 ---
 
 ⭐ *If you like my work, consider following or starring my repositories.*
+
 
